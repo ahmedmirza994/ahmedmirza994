@@ -1,6 +1,3 @@
-Here's a personalized `README.md` for your GitHub profile based on the information provided:
-
-```md
 # Hi, I'm Ahmed Haris 👋
 
 🚀 **Staff Software Consultant** with 6+ years of professional experience in **Software Development**, **Web Application Development**, **Mobile Application Development**, **System Analysis**, and **Database Modeling**.
@@ -51,6 +48,3 @@ I love contributing to open-source projects and have been actively involved in m
 ---
 
 "Striving for excellence in both technology and life."
-```
-
-This README showcases your professional skills, key contributions to the **openai-kotlin** project, and highlights your tech stack, learning, and other areas of interest. You can further customize it as needed!
