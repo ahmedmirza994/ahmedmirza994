@@ -5,7 +5,7 @@
 I have worked across multiple domains including **textile**, **supply chain**, **education**, and **finance**, delivering scalable products using state-of-the-art technologies.
 
 ### 🛠 Tech Stack & Skills:
-- **Languages & Frameworks:** Java, Kotlin, Dart, SQL, JavaScript, PHP
+- **Languages & Frameworks:** Java, Kotlin, Angular, Dart, SQL, JavaScript, PHP
 - **Backend:** Spring Boot, Micronaut, Laravel
 - **Frontend:** Vaadin (Enterprise Java WebApplication Framework)
 - **Mobile Development:** Flutter, React Native
