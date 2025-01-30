@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Haris 👋
 
-🚀 **Staff Software Consultant** with 6+ years of professional experience in **Software Development**, **Web Application Development**, **Mobile Application Development**, **System Analysis**, and **Database Modeling**.
+🚀 **Staff Software Consultant** with 7+ years of professional experience in **Software Development**, **Web Application Development**, **Mobile Application Development**, **System Analysis**, and **Database Modeling**.
 
 I have worked across multiple domains including **textile**, **supply chain**, **education**, and **finance**, delivering scalable products using state-of-the-art technologies.
 
