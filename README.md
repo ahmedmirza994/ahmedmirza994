@@ -7,11 +7,11 @@ I have worked across multiple domains including **textile**, **supply chain**, *
 ### 🛠 Tech Stack & Skills:
 - **Languages & Frameworks:** Java, Kotlin, Angular, Dart, SQL, JavaScript, PHP
 - **Backend:** Spring Boot, Micronaut, Laravel
-- **Frontend:** Vaadin (Enterprise Java WebApplication Framework)
+- **Frontend:** Vaadin (Enterprise Java WebApplication Framework), Angular
 - **Mobile Development:** Flutter, React Native
 - **Databases:** PostgreSQL, SQL, Redis
 - **Cloud Services:** Amazon Webservices (Lambda, SQS, EC2, ECR, CloudWatch, RDS, API Gateway etc..)
-- **Others:** Kafka, SQS, REST, gRPC
+- **Others:** Kafka, SQS, REST, gRPC, GraphQL
 
 ---
 
