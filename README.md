@@ -36,11 +36,6 @@ I love contributing to open-source projects and have been actively involved in m
 
 ---
 
-### 📈 GitHub Stats:
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmirza994&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmedmirza994)
 - ✉️ [Email](mailto:ahmed.mirza994@gmail.com)
