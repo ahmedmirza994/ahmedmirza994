@@ -1,22 +1,17 @@
-# Hi, I'm Ahmed Haris 👋
+# Hi, I'm Ahmed Mirza 👋
 
-🚀 **Staff Software Consultant** with 7+ years of professional experience in **Software Development**, **Web Application Development**, **Mobile Application Development**, **System Analysis**, and **Database Modeling**.
+🚀 **Principal Software Consultant** with 7.8+ years of professional experience in **Software Development**, **Web Application Development**, **Mobile Application Development**, **AI Integration**, **System Analysis**, and **Database Modeling**.
 
 I have worked across multiple domains including **textile**, **supply chain**, **education**, and **finance**, delivering scalable products using state-of-the-art technologies.
 
 ### 🛠 Tech Stack & Skills:
 - **Languages & Frameworks:** Java, Kotlin, Angular, Dart, SQL, JavaScript, PHP
 - **Backend:** Spring Boot, Micronaut, Laravel
-- **Frontend:** Vaadin (Enterprise Java WebApplication Framework), Angular
+- **Frontend:** Vaadin (Enterprise Java Web Application Framework), Angular
 - **Mobile Development:** Flutter, React Native
 - **Databases:** PostgreSQL, SQL, Redis
-- **Cloud Services:** Amazon Webservices (Lambda, SQS, EC2, ECR, CloudWatch, RDS, API Gateway etc..)
-- **Others:** Kafka, SQS, REST, gRPC, GraphQL
-
----
-
-### 🌱 I’m currently learning:
-- **Angular** to further enhance my frontend skills and build modern, responsive web applications.
+- **Cloud Services:** Amazon Web Services (Lambda, SQS, EC2, ECR, CloudWatch, RDS, API Gateway, etc..)
+- **Others:** Kafka, SQS, REST, gRPC, GraphQL, OpenAI, n8n
   
 ---
 
